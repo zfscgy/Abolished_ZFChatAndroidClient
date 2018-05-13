@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZFChat</string>
+    <string name="button_connetc">Connect</string>
+    <string name="button_send">Send</string>
+    <string name="button_signup">Sign up</string>
+    <string name="button_signin">Sign in</string>
+    <string name="title_activity_contact">contactActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
